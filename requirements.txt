@@ -8,7 +8,6 @@ numpy
 spacy
 scikit-learn
 flask-cors
-spacy>=3.0,<4.0
-en-core-web-sm
+
 
 
