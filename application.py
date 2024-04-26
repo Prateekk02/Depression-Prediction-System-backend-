@@ -1,3 +1,4 @@
+python -m spacy download en_core_web_sm
 from flask import Flask, request, jsonify, render_template
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
